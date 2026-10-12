@@ -1,0 +1,4 @@
+{
+    "detector_url": "http://192.168.1.3:10001/detector_voltage",
+    "test": "true"
+}
